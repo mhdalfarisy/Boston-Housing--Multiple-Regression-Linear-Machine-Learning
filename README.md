@@ -2,12 +2,11 @@
 
 <hr>
 
-Multiple Regression Linear Machine Learning Buston Housing merupakan materi latihan untuk multiple regresi linear dalam modul 3 yaitu machine learning. Dalam membuat model ini ada 5 tahapan yang saya lakukan :
+Multiple Regression Linear Machine Learning Buston Housing merupakan materi latihan untuk multiple regresi linear dalam modul 3 yaitu machine learning. Dalam membuat model ini ada 4 tahapan yang saya lakukan :
 - Melakukan Cleaning Data
 - Membuat Model Machine Learning dengan algoritma multiple regressi linear
 - Melakukan prediksi harga
 - Mengukur score R2
-- Kesimpulan
 
 <hr>
 
